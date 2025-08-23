@@ -27,14 +27,14 @@ see the:
 # <img width = 30  src= "image.png" color= #ffffffff/> social medias
 
  <a href="https://www.youtube.com/@NickThe_Moon">
-         <img 
+     <img
          alt="youtube subscribers" 
          title="Subscribe to my YouTube channel" 
          src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCy2jlakktDEZ7WJQXmzxMww?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FNick-The-Moon">
 <img
-title="follow me on github"
-src="https://custom-icon-badges.demolab.com/github/followers/Nick-The-Moon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
+    title="follow me on github"
+    src="https://custom-icon-badges.demolab.com/github/followers/Nick-The-Moon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
 />
 </a>
 
