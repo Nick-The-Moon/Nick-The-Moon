@@ -39,16 +39,19 @@ see the:
 </a>
 
 <div align= "center">
-    <img
-     width = 40
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-     />
-     <img
-     width = 40
-     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
-     />
-     <img
-     width = 40
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-     />
+    <a href= "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiG1vXKoqKPAxUvrZUCHfzAK_UQFnoECBYQAQ&url=https%3A%2F%2Fwww.lua.org%2F&usg=AOvVaw2BHUMaTe6Oor_GnTGgAhbp&opi=89978449">
+        <img
+         width = 40
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
+     /></a>
+     <a href= "https://godotengine.org">
+         <img
+         width = 40
+         src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
+     /></a>
+     <a href="https://dotnet.microsoft.com">
+         <img
+         width = 40
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+     /></a>
 </div>
